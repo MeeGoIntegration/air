@@ -7,6 +7,6 @@ setup(name='route-amqp-pyclient',
       author='David Greaves',
       author_email='david@dgreaves.com',
       url='http://github.com/lbt/ruote-amqp-pyclient',
-      packages=['RuoteAMQP',],
+      packages=['AIR',],
       requires=['amqplib', 'json']
      )
