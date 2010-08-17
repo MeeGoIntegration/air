@@ -8,7 +8,7 @@ Summary: Python air module
 Name: %{name}
 Version: %{version}
 Release: %{release}
-Source0: %{name}-%{unmangled_version}.tar.gz
+Source0: %{name}_%{unmangled_version}.tar.gz
 License: GPLv2+
 Group: Development/Languages/Python
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
